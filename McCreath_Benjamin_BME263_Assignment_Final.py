@@ -1,4 +1,8 @@
 """Loads GTF and PSL data and plots them using matplotlib as per BME263 final instructions."""
+# links to external data files:
+# https://drive.google.com/file/d/1nfuV-67CRPWjUwmr5h-l_D_khIlXlVpS/view?usp=sharing
+# https://drive.google.com/file/d/1bZsl9URPTDs_1lIwylw04YlcPRfIfzKl/view?usp=sharing
+# https://drive.google.com/file/d/1E-5Opukhtcx0mPQahi49Kggn1788YV_F/view?usp=sharing
 import csv
 import pickle
 import sys
