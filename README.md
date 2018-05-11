@@ -1,2 +1,2 @@
 # 263_final_project
-Final project for BME263.
+Final project for 263.
